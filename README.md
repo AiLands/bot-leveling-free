@@ -9,14 +9,15 @@ I have just corrected issues and improve the behaviour of ashe in game
  2. Launch cmd, cd to ./lol-bot-leveling-free,  and write `pip install -r requirements.txt`
  3. Install autohotkey => https://www.autohotkey.com/  { set path and model: add autohotkey.exe to system path, and setup pip install "ahk[binary]" }
  4. { copy bot_settings/input.ini to C:\Riot Games\League of Legends\Config\input.ini }
- 5. { screen and change all img, like: search_images\play_button.png }
- 6. Keyboard in azerty to use summoner and spells
- 7. Put lol game in english and buy ashe. auto AA must be activated and spells in smartcast. Modify Spell up to w,x,c,v and not ctrl + a, ctrl+z, ctrl+e, ctrl+r.
- 8. close the game
- 9. cd to ./lol-bot-leveling-free and launch Launch-bot.bat and write the number of games in the loop
- 10. Put your username and password
- 11. Don't touch mouse and keyboard
- 12. Enjoy the bot
+ 5. { Start client settings 1024 x 576 }
+ 6. { image in the "search_images" folder should be replaced, such as: search_images\play_button.png }
+ 7. Keyboard in azerty to use summoner and spells
+ 8. Put lol game in english and buy ashe. auto AA must be activated and spells in smartcast. Modify Spell up to w,x,c,v and not ctrl + a, ctrl+z, ctrl+e, ctrl+r.
+ 9. close the game
+ 10. cd to ./lol-bot-leveling-free and launch Launch-bot.bat and write the number of games in the loop
+ 11. Put your username and password
+ 12. Don't touch mouse and keyboard
+ 13. Enjoy the bot
 
 
 # Disclaimer
